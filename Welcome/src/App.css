@@ -92,7 +92,6 @@ h1 {
   }
 }
 
-/* Responsive design */
 @media (max-width: 600px) {
   .name-input {
     width: 200px;
